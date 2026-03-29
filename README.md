@@ -13,3 +13,4 @@ Author- Nirmal tiwari
 - 🔹 Model Evaluation (Accuracy, Precision, Recall)  
 - 🔹 Business Insights generation from data  
 - 🔹 AI-assisted tools like ChatGPT & GitHub Copilot for productivity
+https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_68d22412d2f456be0760fcac_1758609653550_completion_certificate.pdf
